@@ -1,0 +1,18 @@
+body {
+    background-color: mintcream;
+}
+
+form {
+    width: 30%;
+    /*background-color: blue; */
+    margin: 0 auto;
+}
+
+input {
+    border: none;
+    background-color: thistle;
+    border-radius: 15%;
+    /* border-bottom: 2px solid firebrick; */
+    padding-left: 5px;
+    width: 90%;
+}
